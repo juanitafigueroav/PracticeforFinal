@@ -1,0 +1,6 @@
+
+#Keyboard Shortcut
+    #[ ]
+    #{ }
+    #~
+    #|
